@@ -1,3 +1,5 @@
+# Task 4: calculator program
+
 while True:
     try:
         num1 = float(input("Enter first number: "))

@@ -1,3 +1,5 @@
+# Task 5: palindrome checker
+
 def is_palindrome(s):
     s = s.lower().replace(" ", "")
     return s == s[::-1]

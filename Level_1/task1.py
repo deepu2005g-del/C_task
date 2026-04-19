@@ -1,3 +1,5 @@
+# Task 1: string reversal
+
 def reverse_string(s):
     return s[::-1]
 
