@@ -1,0 +1,68 @@
+Task 1 Output:
+Guess a number (1-100): 50
+The value you guessed is too low
+Guess a number (1-100): 80
+The value you guessed is too low
+Guess a number (1-100): 90
+The value you guessed is too high
+Guess a number (1-100): 88
+The value you guessed is too high
+Guess a number (1-100): 85
+The value you guessed is too high
+Guess a number (1-100): 83
+The value you guessed is too high
+Guess a number (1-100): 82
+Correct! You guessed it.
+
+Task 2 Output:
+Enter lower range: 30
+Enter upper range: 70
+Guess a number (30-70): 55
+The value you guessed is too low!
+Guess a number (30-70): 65
+The value you guessed is too low!
+Guess a number (30-70): 69
+The value you guessed is too high!
+Guess a number (30-70): 68
+The value you guessed is too high!
+Guess a number (30-70): 66
+Correct! You guessed it.
+
+Task 3 Output:
+Enter password: John@67!
+Strong Password
+
+Task 4 Output:
+Enter number of terms: 6
+Fibonacci Sequence:
+0 1 1 2 3 5
+
+Task 5 Output:
+Enter file name: C_task\Level_2\file\textfile.txt
+a: 1
+and: 3
+automation: 1
+counting: 1
+data: 1
+development: 1
+file: 1
+fun: 1
+handling: 1
+helps: 1
+in: 2
+is: 3
+language: 1
+learning: 1
+powerful: 1
+programming: 1
+project: 1
+python: 4
+science: 1
+this: 1
+to: 1
+understand: 1
+used: 1
+useful: 1
+web: 1
+widely: 1
+word: 1

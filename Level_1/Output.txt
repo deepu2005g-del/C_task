@@ -1,0 +1,22 @@
+Task 1 Output:
+Enter a string to reverse: python
+Reversed string:  nohtyp
+
+Task 2 Output:
+Enter the temperature value: 25
+Enter the unit (C/F): c
+Fahrenheit:  77.0
+
+Task 3 Output:
+Enter email: john89@gmail.com
+Valid Email
+
+Task 4 Output:
+Enter first number: 25
+Enter second number: 7
+Enter operator (+, -, *, /, %): *
+Multiplication: 175.0
+
+Task 5 Output:
+Enter a string: malayalam
+It's a Palindrome

@@ -7,6 +7,6 @@ def is_palindrome(s):
 text = input("Enter a string: ")
 
 if is_palindrome(text):
-    print("Palindrome")
+    print("It's a Palindrome")
 else:
     print("Not a Palindrome")
